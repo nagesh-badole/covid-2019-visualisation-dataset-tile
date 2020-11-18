@@ -1,0 +1,26 @@
+{
+    "name": "Covid 2019 Visualization Dataset",
+    "description": "Dataset for Covid 2019 Data Analysis and Visualization",
+    "logo": "_images/dataset.png",
+    "has_supporting_content": false,
+    "de_catalog_id": "covid_2019_visualization_dataset",
+    "source_repo": "https://github.com/i-data-explorer/covid-2019-visualisation-dataset.git",
+    "cover": "cover.md",
+    "meta": {
+        "Install time": [
+            "3 minutes"
+        ],
+        "Type": [
+            "Dataset"
+        ],
+        "Tag": [
+            "CSV"
+        ],
+        "Categories": [
+            "Covid"
+        ],
+        "Catalog Id": [
+            "covid_2019_visualization_dataset"
+        ]
+    }
+}
