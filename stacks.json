@@ -1,0 +1,19 @@
+{
+    "title": "Covid 2019 Visualization Dataset",
+    "description": "Dataset for Covid 2019 Data Analysis and Visualization",
+    "logo": "_images/dataset.png",
+    "enabled": true,
+    "category_label": [
+        "Dataset"
+    ],
+    "tag": [
+        "CSV"
+    ],
+    "de_catalog_id": "covid_2019_visualization_dataset",
+    "categories": [
+        "Covid"
+    ],
+    "git_url": "",
+    "git_commit": "",
+    "installTime": "3 minutes"
+}
