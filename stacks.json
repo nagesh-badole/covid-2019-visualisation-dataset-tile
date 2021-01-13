@@ -13,6 +13,7 @@
     "categories": [
         "Covid"
     ],
+    "managed_by": ["Edge"],
     "git_url": "",
     "git_commit": "",
     "installTime": "3 minutes"
