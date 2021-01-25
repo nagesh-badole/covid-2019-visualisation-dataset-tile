@@ -1,1 +1,1 @@
-## Covid 2019 Vidualization Dataset
+## Covid 2019 Visualization Dataset
